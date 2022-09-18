@@ -1,0 +1,6 @@
+en:
+  hello: "Hello world"
+
+  layouts:
+    application:
+      title: "Vacation Homes & Condo Rentals - Airbnb"

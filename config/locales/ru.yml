@@ -1,0 +1,6 @@
+ru:
+  hello: "Hello world"
+
+  layouts:
+    application:
+      title: "Аренда квартир и отпускного жилья - Airbnb"
